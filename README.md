@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Testing Build : 19.dsk
+Testing Build : 19.ds
 
 Things you may want to cover:
 
